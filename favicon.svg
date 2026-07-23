@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="100%" height="100%">
+  <!-- Background smooth squircle -->
+  <rect width="32" height="32" rx="8" fill="#1e1e24"/>
+  
+  <!-- Bookmark Accent Tail -->
+  <path d="M22 6v14l-3.5-2.5L15 20V6z" fill="#2563eb" opacity="0.8" />
+  
+  <!-- Play Glow / Foreground -->
+  <path d="M11 9v14l11-7z" fill="#3b82f6"/>
+  
+  <!-- Subtle core detail -->
+  <circle cx="11" cy="9" r="1" fill="#ffffff" opacity="0.5"/>
+</svg>
